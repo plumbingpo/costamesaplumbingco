@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://costamesaplumbingco.com/sitemap.xml
